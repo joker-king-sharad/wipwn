@@ -1,4 +1,4 @@
-name = "wipwn"
+toolname = "wipwn"
 version = "1.0.3"
 developer = "MOHAMMAD ALAMIN"
 team = "TOXINUM"
